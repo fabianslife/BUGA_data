@@ -8,10 +8,10 @@ Welcome to the repository of the BUGA 23 Chatbot Interaction Dataset. This datas
 
 The dataset includes:
 
-*CSV Format Files: Each conversation is structured in CSV format, detailing the dialogue between the chatbot and users.
-*Timeframe: Data was collected from March to September 2023.
++CSV Format Files: Each conversation is structured in CSV format, detailing the dialogue between the chatbot and users.
++Timeframe: Data was collected from March to September 2023.
 Focus on Medical Queries: The chatbot was primarily prompted for medical questions, offering insights into public health-related inquiries and responses.
-*Languages: The users had the coice to lead their conversation in German, English or Spanish. The languge is marked at the end of the file name.
++Languages: The users had the coice to lead their conversation in German, English or Spanish. The languge is marked at the end of the file name.
 
 ## **Data Collection Method**
 
